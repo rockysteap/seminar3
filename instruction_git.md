@@ -128,9 +128,13 @@ ___
 Где <branch_name> - желаемое наименование новой ветки.
 
 ____
-### Переключение между ветками >>> git checkout <branch_name> (branch: 'branch_switch') >>> git checkout <branch_name> (branch: 'branch_switch')
+### Переключение между ветками
 
-Чтобы переключиться на другую ветку...
+Для переключения между ветками нужно ввести команду:
+
+    git checkout <branch_name>
+
+Где <branch_name> - наименование ветки, которое необходимо активировать.
 
 ___
 ### Слияние веток >>> git merge <branch_name> (branch: 'branch_merge')
