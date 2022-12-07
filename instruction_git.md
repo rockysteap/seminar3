@@ -119,12 +119,16 @@ ___
 Есть также вариант для просмотра веток на удаленных устройствах. Для этого используется ключ -г (remote).
 
 ___
-### Создание новой ветки >>> git branch <branch_name> (branch: 'branch_new')
+### Создание новой ветки
 
-Чтобы создать новую ветку...
+Для создания новой ветки нужно ввести команду:
 
-___
-### Переключение между ветками >>> git checkout <branch_name> (branch: 'branch_switch')
+    git branch <branch_name>
+
+Где <branch_name> - желаемое наименование новой ветки.
+
+____
+### Переключение между ветками >>> git checkout <branch_name> (branch: 'branch_switch') >>> git checkout <branch_name> (branch: 'branch_switch')
 
 Чтобы переключиться на другую ветку...
 
