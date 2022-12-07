@@ -120,3 +120,35 @@ ___
 ### Переключение между ветками
 
 Чтобы переключиться на другую ветку...
+
+
+
+
+
+
+___
+___
+<br>
+<br>
+
+___
+___
+## Домашняя работа
+Описание команд:
+
+   v git branch
+   v git branch <branch_name>
+   v git branch -d <branch_name>
+   v git branch -D <branch_name> принудительное удаление
+
+   v git checkout <branch_name>
+
+   v git log --graph
+   v git log --all --oneline --graph
+
+   v git merge <branch_name>
+
+    Конфликт слияния и его разрешение
+
+    Создать не менее 4 веток.
+    После слияния обязательно удалять.
